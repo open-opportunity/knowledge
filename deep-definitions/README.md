@@ -12,4 +12,4 @@ Our hypothesis is that these words serve us better if used with the meanings giv
 
 ## Terms
 
-1. [roles and interactions](/roles)
+1. [roles and interactions](roles.md)

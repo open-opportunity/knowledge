@@ -99,5 +99,3 @@ An investor provides resource and takes risk in exchange for reward. Supporting 
 If they offer you a favour, it is one that would create an actual cost to them. Making connections in their already established network is the favour of a champion. Getting their team to build something to help you get started, or doing work that they would regularly and ordinarily charge for, is the favour of an Investor.
 
 Of course, money or credit for services in exchange for established shares, or that will be repaid in the future, or in exchange for an agreed level of service to be returned is not a favour but an explicit transaction (however informal).
-
-[up](../)
