@@ -1,6 +1,6 @@
 # TMC Service Framework
 
-TMC stands for Training, Mentoring and Coaching, and the TMC Service Framework is structured in this order with purpose.
+TMC stands for `Training`, `Mentoring` and `Coaching`, and the TMC Service Framework is structured in this order with purpose.
 
 It’s important to note here that development is an issue concerning skill – not motivation or behaviour.
 
@@ -8,7 +8,7 @@ It is also worthy to note that an incentive does not produce skill, maintain ski
 
 Personal and Professional Development (PPD) is a process of increasing potential. Physical, intellectual, emotional, and spiritual growth all add to potential; and though one might focus on a single area, all four are important for balance.
 
-A Service Provider should determine which type of service is needed, and if they can AND should contribute to those needs.
+A Service Provider SHOULD determine which type of service is needed, and MUST do so via a process of colaboration. Once a need as been identified, the Service Provider MUST consider their BOTH their ability to provide a service AND whether or not they SHOULD provide that service (see [Ethical Framework](ethical-framework.md)).
 
 During any of these phases a Service Provider will look to identify *friction* - such as limiting behaviours and thinking patterns. The OOF considers such *friction* and the resulting need to challange as a complimentary/companion service.
 
@@ -16,7 +16,9 @@ During any of these phases a Service Provider will look to identify *friction* -
 
 We must first discover that there is cause for development. This includes identifying a gap in skill and also a need to fill it.
 
-A mere gap in skill doesn't always establish a need for supported development. Without a business, career, or personal need to overcome such gaps, there is little justification to commit the required resources. It is important then, that a Service Provider understands the scope of their involvment in a client's development - and that the Service Provider is aware of any undesirable dependancy.
+A mere gap in skill doesn't always establish a need for supported development. Without a business, career, or personal need to overcome such gaps, there is little justification to commit the required resources. This is not to say that a Service User must be discurraged from investing time in these areas - far from it, the Service User's independance is important. It is, however, important that a chargable service offering ought to focus on valud addition - so it would be rare for a Servie Provider to directly support efforts that don't achieve an appropriate value assessment.
+
+It is important then, that a Service Provider understands the scope of their involvment in a client's development - and that the Service Provider is aware of any undesirable dependancy.
 
 ## The Flow
 
