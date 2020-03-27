@@ -46,8 +46,6 @@ A person that contributes to the contextualisation of learning, and the practica
 
 A Mentor is not a position of seniority - though, it is not incompatible with seniority.
 
-A Mentor creates a sense of accountability in their Mentee, and provides an ongoing awareness of accountability as a central value to their role.
-
 A Mentor is a subject matter expert with direct experience of the application of a particular process, role, duty, or area of knowledge.
 
 A Mentor may provide instruction for the express intention of learning - but otherwise does not give instruction or provide instructional authority and sign off by virtue of mentorship.
