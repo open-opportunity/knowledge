@@ -8,7 +8,7 @@ It is also worthy to note that an incentive does not produce skill, maintain ski
 
 Personal and Professional Development (PPD) is a process of increasing potential. Physical, intellectual, emotional, and spiritual growth all add to potential; and though one might focus on a single area, all four are important for balance.
 
-A Service Provider SHOULD determine which type of service is needed, and MUST do so via a process of colaboration. Once a need as been identified, the Service Provider MUST consider their BOTH their ability to provide a service AND whether or not they SHOULD provide that service (see [Ethical Framework](ethical-framework.md)).
+A Service Provider SHOULD determine which type of service is needed, and MUST do so via a process of colaboration. Once a need as been identified, the Service Provider MUST consider their BOTH their ability to provide a service AND whether or not they SHOULD provide that service (see [Ethical Framework](ethics/ethical-framework.md)).
 
 During any of these phases a Service Provider will look to identify *friction* - such as limiting behaviours and thinking patterns. The OOF considers such *friction* and the resulting need to challange as a complimentary/companion service.
 
