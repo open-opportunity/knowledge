@@ -1,6 +1,11 @@
 # Valid and Sound Offering
 
-A `Service Supplier` should ensure that 
+Throughout providing a *Service* lots of ideas are communicated, they are either:
+* Shared
+* Promoted
+* Sold
+
+We share ideas when we
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjYzMTUyNV19
+eyJoaXN0b3J5IjpbNjY2MDAyODI5XX0=
 -->
