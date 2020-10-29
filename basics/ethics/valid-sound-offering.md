@@ -6,9 +6,9 @@ Throughout providing a *Service* lots of ideas are communicated, they can be:
 * Promoted
 * Sold
 
-We *share* ideas when we provide no emphasis on its validity or value, we *promote* ideas when we attach value and state or imply validity, and we *sell ideas* when exchange ideas for benefit - or we attach ideas as contingent to benefit being created.
+We *share* ideas when we provide no emphasis on their validity or value, we *promote* ideas when we attach value and state or imply validity, and we *sell ideas* when exchange ideas for benefit - or we attach ideas as contingent to benefit being created.
 
-In order to provide an **Ethical Service** 
+In order to provide an **Ethical Service** the ideas that we *promote* or *sell* ought to be either **Valid** or **Sound**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NjY3MzY0XX0=
+eyJoaXN0b3J5IjpbNDI4NTg5ODg1XX0=
 -->
