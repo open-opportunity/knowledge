@@ -1,6 +1,6 @@
 # Valid and Sound Offering
 
-Throughout providing a *Service* lots of ideas are communicated, they can be:
+Throughout providing a `Service` lots of ideas are communicated, they can be:
 
 * Shared
 * Promoted
@@ -8,7 +8,7 @@ Throughout providing a *Service* lots of ideas are communicated, they can be:
 
 We *share* ideas when we communicate them but provide no emphasis on their validity or value; we *promote* ideas when we attach value and state or imply validity; and we *sell ideas* when exchange ideas for benefit - or we attach ideas as contingent to benefit being created.
 
-In order to provide an **Ethical Service** the ideas that we *promote* or *sell* ought to be either **Valid** or **Sound**. For this reason a *Service Provider* should strongly prefer ***Evidence Based Practice***.
+In order to provide an **Ethical Service** the ideas that we *promote* or *sell* ought to be either **Valid** or **Sound**. For this reason a `Service Provider` should strongly prefer ***Evidence Based Practice***.
 
 ## The Benefit of Sharing
 
@@ -22,12 +22,14 @@ It is important, then, that when we share ideas that we cannot present atop a fo
 
 Many beliefs that we hold are not valid - even if only as much as it is reasonable to assert that they are ***not yet*** valid. It is next to impossible to question and verify each and every belief that we have; we are rarely even conscious of our core values.
 
-When creating, selecting, or delivering a ***Service` - we should seek out  and prefer ideas that are:
+When creating, selecting, or delivering a `Service` - we should seek out and prefer ideas that are:
 
 * validated by research
 * are supported by peer review
 * are longitudinally valid
+
+## Sound Ideas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzczNjU3NTAsLTQ1MTc5Mzk1MCwtMT
-gzNTI3MjY3OV19
+eyJoaXN0b3J5IjpbNzgzMzEwNDQ5LC00NTE3OTM5NTAsLTE4Mz
+UyNzI2NzldfQ==
 -->
