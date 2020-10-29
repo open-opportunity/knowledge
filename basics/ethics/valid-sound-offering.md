@@ -14,7 +14,7 @@ In order to provide an **Ethical Service** the ideas that we *promote* or *sell*
 
 Not all ideas ought to pass the rigours of an evidence base, peer reviewed research, or meta analysis. There is benefit created beyond the mere transmission of fact in the form of narrative, story morals, exposition, analogy, the creation of empathy, and so on.
 
-
+A skill story teller can support the suspension of disbelief in order to entertain, or to invoke 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzEzNTg4MCwtMTgzNTI3MjY3OV19
+eyJoaXN0b3J5IjpbLTQ1MTc5Mzk1MCwtMTgzNTI3MjY3OV19
 -->
