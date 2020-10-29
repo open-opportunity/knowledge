@@ -16,11 +16,10 @@ Not all ideas ought to pass the rigours of an evidence base, peer reviewed resea
 
 A skilled story teller can support the suspension of disbelief in order to entertain, or to cause an audience to consume a novel perspective. A fictional world can present opportunities to create characters that experience fear, or jealousy, or forgiveness - and all manner of other human conditions - and yet, once the context and situation are gleaned of their value, that fictional world can melt away.
 
-It is important, then, that when we share ideas that we cannot present atop a foundation of evidence and reason - that we become accustom to providing caveat and supporting the process of discovering the ration
+It is important, then, that when we share ideas that we cannot present atop a foundation of evidence and reason - that we become accustom to providing caveat and supporting the process of discovering the rational benefits offered by stories and ideas that are not based on verified fact.
 
-
- invoke
+## Valid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODU0NjM1NSwtNDUxNzkzOTUwLC0xOD
+eyJoaXN0b3J5IjpbLTQzNzcyNzAxNCwtNDUxNzkzOTUwLC0xOD
 M1MjcyNjc5XX0=
 -->
