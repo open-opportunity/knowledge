@@ -20,8 +20,8 @@ It is important, then, that when we share ideas that we cannot present atop a fo
 
 ## Valid Ideas
 
-Many beliefs that we hold are not valid - even if only as much as it is reasonable to assert that they are ***not yet*** valid. We should seek out ideas that 
+Many beliefs that we hold are not valid - even if only as much as it is reasonable to assert that they are ***not yet*** valid. We should seek out  and prefer ideas that have been validated by research, and have been supported by peer review, and are longditudinal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkzMDkwNTMsLTQ1MTc5Mzk1MCwtMT
-gzNTI3MjY3OV19
+eyJoaXN0b3J5IjpbMTc0MzI0NjQ1LC00NTE3OTM5NTAsLTE4Mz
+UyNzI2NzldfQ==
 -->
