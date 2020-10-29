@@ -8,7 +8,11 @@ Throughout providing a *Service* lots of ideas are communicated, they can be:
 
 We *share* ideas when we provide no emphasis on their validity or value, we *promote* ideas when we attach value and state or imply validity, and we *sell ideas* when exchange ideas for benefit - or we attach ideas as contingent to benefit being created.
 
-In order to provide an **Ethical Service** the ideas that we *promote* or *sell* ought to be either **Valid** or **Sound**. For this reason a *Service Provider* should strongly prefer ***Evidence Based Practice***. ********TEST*******
+In order to provide an **Ethical Service** the ideas that we *promote* or *sell* ought to be either **Valid** or **Sound**. For this reason a *Service Provider* should strongly prefer ***Evidence Based Practice***.
+
+## The Benefit of Sharing
+
+Not all ideas ought to pass the rigours of an evidence base, peer reviewed research, or meta analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM2NDYzMDVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODY5ODQ4NDldfQ==
 -->
