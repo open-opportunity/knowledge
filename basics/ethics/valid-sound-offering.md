@@ -18,8 +18,10 @@ A skilled story teller can support the suspension of disbelief in order to enter
 
 It is important, then, that when we share ideas that we cannot present atop a foundation of evidence and reason - that we become accustom to providing caveat and supporting the process of discovering the rational benefits offered by stories and ideas that are not based on verified fact.
 
-## Valid
+## Valid Ideas
+
+Many beliefs that we hold are not valid - even if only as much as it is reasonable to assert that they are ***not yet*** valid. We should seek out ideas that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzcyNzAxNCwtNDUxNzkzOTUwLC0xOD
-M1MjcyNjc5XX0=
+eyJoaXN0b3J5IjpbLTE1ODkzMDkwNTMsLTQ1MTc5Mzk1MCwtMT
+gzNTI3MjY3OV19
 -->
