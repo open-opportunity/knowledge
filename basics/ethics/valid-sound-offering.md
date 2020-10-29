@@ -14,7 +14,10 @@ In order to provide an **Ethical Service** the ideas that we *promote* or *sell*
 
 Not all ideas ought to pass the rigours of an evidence base, peer reviewed research, or meta analysis. There is benefit created beyond the mere transmission of fact in the form of narrative, story morals, exposition, analogy, the creation of empathy, and so on.
 
-A skill story teller can support the suspension of disbelief in order to entertain, or to invoke 
+A skilled story teller can support the suspension of disbelief in order to entertain, or to cause an audience to consume a novel perspective. A fictional world can present opportunities to create characters that experience fear, or jealousy, or forgiveness - and
+
+ invoke
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTc5Mzk1MCwtMTgzNTI3MjY3OV19
+eyJoaXN0b3J5IjpbNDM3Mjg3NzU4LC00NTE3OTM5NTAsLTE4Mz
+UyNzI2NzldfQ==
 -->
