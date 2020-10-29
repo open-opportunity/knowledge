@@ -12,7 +12,7 @@ In order to provide an **Ethical Service** the ideas that we *promote* or *sell*
 
 ## The Benefit of Sharing
 
-Not all ideas ought to pass the rigours of an evidence base, peer reviewed research, or meta analysis
+Not all ideas ought to pass the rigours of an evidence base, peer reviewed research, or meta analysis. There is benefit created beyond the mere transmission of fact in the form of narrative, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY5ODQ4NDldfQ==
+eyJoaXN0b3J5IjpbMjU1MDg5OTExXX0=
 -->
